@@ -69,7 +69,7 @@ sesCikti = data[:, 0]
 
 tempHolder =0
 minRangeToRecorded =10000000
-ses = sesBosluk,sesCikti, sesDügme,sesElma,sesFil,sesKagit,sesPoz,sesSandal,sesTelefon,sesYeni #Alfabetik sira
+ses = sesBosluk,sesCikti, sesDügme,sesElma,sesFil,sesKagit,sesPoz,sesSandal,sesTelefon,sesYeni #Alphabetical order
 
 
 
